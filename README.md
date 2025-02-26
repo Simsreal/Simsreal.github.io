@@ -1,6 +1,6 @@
 # Simsreal
 
-## Docsify README
+## Docsify
 
 > A simple [Docsify](https://github.com/docsifyjs/docsify/)
 
